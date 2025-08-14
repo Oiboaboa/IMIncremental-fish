@@ -1,6 +1,6 @@
 # IMIncremental-fish
 auto fisher
-well good luck installing ask chat-gpt
+well good luck installing ask chat-gpt if u dont understend want i wrote or its still not working after
 
 
 install studio code install python(easier if u use microsoft store for some reason)
