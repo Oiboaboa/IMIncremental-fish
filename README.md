@@ -11,7 +11,10 @@ pip install mss numpy pynput keyboard
 copy the pip command to the cmd
 to open cmd just search in your windows bar 'cmd'
 
-next u
+next u find where your macro.py is 
+then on the cmd use: cd 'stop its at'
+then to run it use 'python macro.py' if yours as macro as its name
+
 
 the macro works if u have roblox on full screen if u want to use it while minimized u will need to change the code
 to use just leave the mouse on top of the fishing rode icon to start press F3 to stop F3 to stop it from running F4 or crtl-c on cmd
