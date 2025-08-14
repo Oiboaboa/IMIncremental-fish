@@ -5,4 +5,7 @@ well good luck installing ask chat-gpt
 
 install studio code install python(easier if u use microsoft store for some reason)
 
-ask chat gpt the pip install u need to use the code i dont remenber but he knows
+these are the pip installs u need
+pip install mss numpy pynput keyboard
+
+to use just leave the mouse on to of the fishing rode icon to start 
