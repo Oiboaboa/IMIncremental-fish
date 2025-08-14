@@ -13,4 +13,7 @@ to open cmd just search in your windows bar 'cmd'
 
 next u
 
+the macro works if u have roblox on full screen if u want to use it while minimized u will need to change the code
 to use just leave the mouse on top of the fishing rode icon to start press F3 to stop F3 to stop it from running F4 or crtl-c on cmd
+dont forget to pause the macro when u want to stop fishing or its going to click verywhere
+
