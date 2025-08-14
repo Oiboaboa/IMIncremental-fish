@@ -4,7 +4,7 @@ auto fisher
 Well, good luck installing it. Ask ChatGPT if you don’t understand what I wrote, or if it’s still not working afterward.
 
 
-install studio code install python(easier if u use microsoft store for some reason)
+install studio code(use good old google to install) install python(easier if u use microsoft store for some reason)
 
 these are the pip installs u need
 pip install mss numpy pynput keyboard
