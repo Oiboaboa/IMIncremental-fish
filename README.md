@@ -7,5 +7,8 @@ install studio code install python(easier if u use microsoft store for some reas
 
 these are the pip installs u need
 pip install mss numpy pynput keyboard
+cope the pip command in the cmd
+
+
 
 to use just leave the mouse on to of the fishing rode icon to start press F3 to stop F3 to stop it from running F4 or crtl-c on cmd
