@@ -1,6 +1,6 @@
 # IMIncremental-fish
 auto fisher
-well good luck installing ask chat-gpt if u dont understend want i wrote or its still not working after
+Well, good luck installing it. Ask ChatGPT if you don’t understand what I wrote, or if it’s still not working afterward.
 
 
 install studio code install python(easier if u use microsoft store for some reason)
